@@ -147,24 +147,28 @@ projects:
 
     assignments:
       - title: Divvy
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Chicago bikeshare system data visualizations and analysis."
 
-      - title: Tempo
+      - title: Crime
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Chicago crime data analysis using Apache Spark."
 
-      - title: Atom
+      - title: HMM
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Using hidden markov models for sequence labeling and hidden state analysis. Custom implementation in Python."
 
-      - title: Delta
+      - title: Matching
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Rmarkdown bookdown demonstrating how to perform matching methods for causal inference in R."
+
+      - title: Flex
+        link: "#"
+        tagline: "A flexdashboard using leaflet to provide interactive geospatial visualizations."
+
+      - title: Shinyapps.io
+        link: "#"
+        tagline: "Demonstrations of using R shiny for interactive data visualizations."
 
 publications:
     title: Publications
