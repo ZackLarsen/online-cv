@@ -155,15 +155,15 @@ projects:
         tagline: "Chicago crime data analysis using Apache Spark."
 
       - title: HMM
-        link: "#"
+        link: "#https://zacklarsen.github.io/hmm/"
         tagline: "Using hidden markov models for sequence labeling and hidden state analysis. Custom implementation in Python."
 
       - title: Matching
-        link: "#"
+        link: "#https://zacklarsen.github.io/Matchbook/"
         tagline: "Rmarkdown bookdown demonstrating how to perform matching methods for causal inference in R."
 
       - title: Flex
-        link: "#"
+        link: "#https://github.com/ZackLarsen/flex"
         tagline: "A flexdashboard using leaflet to provide interactive geospatial visualizations."
 
       - title: Shinyapps.io
@@ -194,7 +194,7 @@ skills:
       - name: Dataviz
         level: 95%
  
-       - name: Apache Hadoop & Spark
+      - name: Apache Hadoop & Spark
         level: 75%
 
       - name: RMarkdown / bookdown
