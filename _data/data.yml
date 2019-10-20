@@ -97,23 +97,28 @@ experiences:
       company: HCSC, Chicago
       details: |
         Main responsibilities in this role include performing program evaluations,
-        developing code base in R and Python and SQL to facilitate work for
-        the rest of the team, and 
+        developing and maintaining a code base in R and Python and SQL to facilitate
+        work for the rest of the team, and conducting literature reviews to stay
+        apprised of the current best practices in causal inference in observational
+        settings and health management program evaluation.
+        
+        Major Accomplishments:
 
-          - Bullet point
-          - Bullet point
+          - Successful validation of statistical methodology by external experts.
+          - Built interactive geospatial visualization tool to support clinical decision making.
+          - Presented team's work to broader data science community within organization.
+          - Conducted over 50 interviews for data scientist and data product manager roles.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Associate Data Scientist
+      time: 2018 - 2019
+      company: HCSC, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Performed large number of medical program evaluations.
+        
+        Major Accomplishments:
 
-          - Bullet point
+          - Presented opioid substance abuse intervention program evaluation results
+          to committee of more than 50 members to communicate findings and provide recommendations.
           - Bullet point
 
     - role: UI Developer
