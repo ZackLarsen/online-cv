@@ -191,8 +191,17 @@ skills:
       - name: R
         level: 95%
 
+      - name: Dataviz
+        level: 95%
+ 
+       - name: Apache Hadoop & Spark
+        level: 75%
+
       - name: RMarkdown / bookdown
         level: 90%
+
+      - name: Propensity Score Matching
+        level: 95%
 
       - name: Javascript & HTML & CSS
         level: 40%
