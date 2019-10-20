@@ -69,42 +69,36 @@ education:
       university: DePaul University School of Computing
       time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        With a concentration in computational methods, this program helped
+        me to develop a strong engineering background to support my other
+        coursework in statistical learning, advanced machine learning, and 
+        special topics in artificial intelligence. Some of the more advanced
+        coursework I completed here were in the following classes:
 
-          - Bullet point
-          - Bullet point
+          - Neural Network and Deep Learning
+          - Interactive Data Visualization
+          - Natural Language Processing
+          - Intelligent Information Retrieval
 
     - degree: BSc in Finance and Management
       university: Purdue University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Part of the Krannert School of Management, this program encouraged
+        a very rigorous quantitative approach to financial management and 
+        general business management practices. I took several courses in 
+        statistics and linear programming for business and economics that
+        developed an interest I would later translate into my Master's
+        degree in predictive analytics and my career transition to data science.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist
+      time: 2019 - Present
+      company: HCSC, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Main responsibilities in this role include performing program evaluations,
+        developing code base in R and Python and SQL to facilitate work for
+        the rest of the team, and 
 
           - Bullet point
           - Bullet point
