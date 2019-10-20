@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: zlarsen4@gmail.com
     phone: 630 865 9836
-    website: zacklarsen.netlify.com/ #do not add http://
+    website: zacklarsen.netlify.com #do not add http://
     linkedin: larsenzachary
     github: zacklarsen
     gitlab:
@@ -35,10 +35,13 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
-      - item: Cooking
+      - item: Scuba Diving
+        link:
+
+      - item: Guitar
         link:
 
 career-profile:
