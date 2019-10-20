@@ -118,31 +118,35 @@ experiences:
         Major Accomplishments:
 
           - Presented opioid substance abuse intervention program evaluation results
-          to committee of more than 50 members to communicate findings and provide recommendations.
-          - Bullet point
+          to committee of more than 50 members to communicate findings and provide
+          recommendations.
+          - Introduced team to enterprise github and taught team members how to use
+          git to organize and structure projects and ensure reproducibility and backup work.
+          - Successfully onboarded five other team members and helped to set up
+          data science tooling and programming language development environments.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Data Scientist Intern
+      time: 2017 - 2017
+      company: Inference Analytics, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Over the course of three months, I completed several rapid protoype models to
+        demonstrate use cases for analytics to potential clients in various industrial
+        sectors. Python, R, Tableau, Spark and Docker were used for various workflows.
+        
+        Example projects included:
 
-          - Bullet point
-          - Bullet point
+          - Real estate rent prediction model for commercial real estate investors
+          - Retail e-commerce hardware site product recommender system and customer segmentation
+          - Logistics company anomaly detection identifying truck breakdown through natural 
+          language processing of phone records
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a sample of personal projects I have worked on recently
 
     assignments:
-      - title: Velocity
+      - title: Divvy
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -165,44 +169,35 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The document below was a research publication from a contractual engagement to have external experts
+      validate the statistical methodologies of our team.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Evaluating Medical Programs
+        authors: Christopher Whaley, RAND Health Care
+        conference: Internal document
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: RMarkdown / bookdown
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript & HTML & CSS
+        level: 40%
+
+      - name: SQL
+        level: 90%
+
+      - name: git
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
