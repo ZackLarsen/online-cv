@@ -47,49 +47,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After completing a Master's program in predictive analytics, I began 
-      working as a data scientist on a clinical team for a large nonprofit 
-      health insurer in Chicago. Most of my work in this role has been related
-      to causal inference in an observational setting, which presents signficant
-      challenges. In order to be as precise as possible in estimating causal
-      effects for the disease management and case management programs my team
-      evaluates, we have to meet stringent data requirements and carefully
-      evaluate the assumptions we make.
-
-      In addition to challenges regarding modeling, evaluation and interpretation,
-      the projects my team works on require complete ownership from start to finish
-      over data procurement, modeling and the presentation of findings. Many of the
-      evaluations that are requested by clinical and operations teams have tight
-      deadlines and it is crucial to develop software tools to enhance efficiency and
-      promote best practices for organizing and structuring projects to stay focused
-      and ensure reproducibility.
+      Experienced clinical data scientist with strong background in evaluation design
+      and causal inference. Advanced computer programmer and statistics researcher.
+      
 
 education:
     - degree: MSc in Predictive Analytics
       university: DePaul University School of Computing
       time: 2015 - 2017
       details: |
-        With a concentration in computational methods, this program helped
-        me to develop a strong engineering background to support my other
-        coursework in statistical learning, advanced machine learning, and 
-        special topics in artificial intelligence. Some of the more advanced
-        coursework I completed here were in the following classes:
-
-          - Neural Network and Deep Learning
-          - Interactive Data Visualization
-          - Natural Language Processing
-          - Intelligent Information Retrieval
+        With a concentration in computational methods, this program focused
+        on programming, engineering and quantitative analysis skills. Subjects
+        included advanced machine learning, neural networks & deep learning,
+        interactive data visualization (D3.js), natural language processing,
+        big data (Hadoop, Pig, Hive, Spark), and information retrieval.
 
     - degree: BSc in Finance and Management
       university: Purdue University
       time: 2007 - 2011
       details: |
         Part of the Krannert School of Management, this program encouraged
-        a very rigorous quantitative approach to financial management and 
-        general business management practices. I took several courses in 
-        statistics and linear programming for business and economics that
-        developed an interest I would later translate into my Master's
-        degree in predictive analytics and my career transition to data science.
+        a very rigorous quantitative approach to finance, accounting and 
+        business strategy. Relevant coursework included business statistics,
+        operations management, calculus and marketing statistics.
 
 experiences:
     - role: Data Scientist
@@ -97,7 +77,7 @@ experiences:
       company: HCSC, Chicago
       details: |
         Main responsibilities in this role include performing program evaluations,
-        developing and maintaining a code base in R and Python and SQL to facilitate
+        developing and maintaining a code base in R, Python and SQL to facilitate
         work for the rest of the team, and conducting literature reviews to stay
         apprised of the current best practices in causal inference in observational
         settings and health management program evaluation.
@@ -105,31 +85,36 @@ experiences:
         Major Accomplishments:
 
           - Successful validation of statistical methodology by external experts.
+          - Created e-book for statistical methodology documentation.
+          - Successfully tanslated research papers into code base for other team members to use.
           - Built interactive geospatial visualization tool to support clinical decision making.
           - Presented team's work to broader data science community within organization.
-          - Conducted over 50 interviews for data scientist and data product manager roles.
+          - Conducted over 50 interviews for data scientist and data science product manager roles.
 
     - role: Associate Data Scientist
       time: 2018 - 2019
       company: HCSC, Chicago
       details: |
-        Performed large number of medical program evaluations.
+        Responsible for performing high number of program evaluations to meet divisional goals,
+        onboarding new data scientist hires, and migrating SAS code base to R and Python.
         
         Major Accomplishments:
 
           - Presented opioid substance abuse intervention program evaluation results
-          to committee of more than 50 members to communicate findings and provide
+          to pharmacy committee of more than 50 members to communicate findings and provide
           recommendations.
           - Introduced team to enterprise github and taught team members how to use
           git to organize and structure projects and ensure reproducibility and backup work.
           - Successfully onboarded five other team members and helped to set up
           data science tooling and programming language development environments.
+          - Collected team members' SQL scripts and cleansed and documented so other team
+          members could benefit from having code base in central github repository.
 
     - role: Data Scientist Intern
       time: 2017 - 2017
       company: Inference Analytics, Chicago
       details: |
-        Over the course of three months, I completed several rapid protoype models to
+        Over the course of three months, completed several rapid protoype models to
         demonstrate use cases for analytics to potential clients in various industrial
         sectors. Python, R, Tableau, Spark and Docker were used for various workflows.
         
@@ -195,22 +180,22 @@ skills:
         level: 95%
  
       - name: Apache Hadoop & Spark
-        level: 75%
+        level: 65%
 
-      - name: RMarkdown / bookdown
-        level: 90%
+      - name: RMarkdown / bookdown / blogdown
+        level: 95%
 
       - name: Propensity Score Matching
         level: 95%
 
       - name: Javascript & HTML & CSS
-        level: 40%
+        level: 30%
 
       - name: SQL
         level: 90%
 
-      - name: git
-        level: 90%
+      - name: git / github
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
